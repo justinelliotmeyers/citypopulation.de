@@ -1,0 +1,246 @@
+
+Country	Link to the Statistical Office
+ABW	Central Bureau of Statistics Aruba
+AFG	Central Statistics Office, Afghanistan
+AGO	Instituto Nacional de Estatística, República de Angola
+AIA	Anguilla's Statistics Department
+ALB	Instituti i Statistikës, Tiranë
+AND	Departament d'Estatdística, Andorra
+ARE	Fujairah Statistics Center
+ARE	Dubai Statistics Center
+ARE	Ras Al Khaimah Statistics Center
+ARE	Statistics Center Abu Dhabi
+ARE	Department of Statistics and Community Development Sharjah
+ARE	Federal Competiveness and Statistics Authority
+ARE	Ajman Statistics and Competitiveness Center
+ARG	Instituto Nacional de Estadística y Censos de la Republica Argentina
+ARM	National Statistical Service of the Republic of Armenia
+ASM	American Samoa Government: Research & Statistics
+ATG	Statistics Division of Antigua and Barbuda
+AUS	Australian Bureau of Statistics
+AUT	Statistik Austria
+AZE	State Statistical Committee of the Republic of Azerbaijan
+BDI	Institut National de Statistique du Burundi
+BEL	Statistics Belgium, NIS-INS, Ministry of Economic Affairs
+BEN	Institut National de la Statistique Benin
+BFA	Institut National de la Statistique et de la Demographie, Burkina Faso
+BGD	Bangladesh Bureau of Statistics
+BGR	National Statistical Institute Bulgaria
+BHR	Bahrain Information and e-Government Authority
+BHS	Department of Statistics, Bahamas
+BIH	Republika Srpska Institute of Statistics
+BIH	Bosnia and Herzegovina Agency for Statistics
+BIH	Federal Office of Statistics of the Federation of Bosnia & Herzegovina
+BLR	National Statistical Committee of the Republic of Belarus
+BLZ	Statistical Institute of Belize
+BMU	Department of Statistics, Government of Bermuda
+BOL	Instituto Nacional de Estadística, República de Bolivia
+BRA	Instituto Brasileiro de Geografia e Estatistica
+BRB	Barbados Statistical Service
+BRN	Department of Economic Planning and Development, Brunei
+BTN	National Statistics Bureau, Royal Government of Bhutan
+BWA	Statistics Botswana
+CAF	Institut Centrafricain des Statistiques et des Etudes Economiques et Sociales
+CAN	Statistics Canada
+CHE	Bundesamt für Statistik, Schweiz
+CHL	Instituto Nacional de Estadísticas, Santiago de Chile
+CHN	China National Bureau of Statistics
+CIS	Interstate Statistical Committee of the Commonwealth of Independent States (CISStat)
+CMR	Institut National de la Statistique du Cameroun
+COD	Institut National de la Statistique, République Démocratique du Congo
+COG	Institute National de la Statistique, Republique du Congo
+COK	Cook Islands Statistics Office
+COL	Departamento Administrativo Nacional de Estadistica, Republica de Columbia
+COM	Institut Nationale de la Statistique et des Etudes Economiques et Démographiques, Union des Comores
+CPV	Instituto Nacional de Estatística, Cabo Verde
+CRI	Instituto Nacional de Estadística y Censos, Costa Rica
+CUB	Oficina Nacional de Estadisticas, República de Cuba
+CUW	Central Bureau of Statistics, Curaçao
+CVI	Institut National de la Statistique, Republique de Côte d'Ivoire
+CYM	Government of the Cayman Islands, Economics and Statistics Office
+CYP	Statistical Service, Republic of Cyprus
+CZE	Czech Statistical Office
+DEU	Statistical Offices of the German States
+DEU	Statistisches Bundesamt Deutschland
+DJI	Ministère des Finances Djibouti
+DJI	Institut National de la Statistique de Djibouti
+DMA	Central Statistics Office of Dominica
+DNK	Denmark Statistik (StatBank)
+DOM	La Oficina Nacional de Estadística, República Dominicana
+DZA	Office National des Statistiques de l'Algérie
+ECU	El Instituto Nacional de Estadística y Censos del Ecuador
+EGY	Central Agency for Public Mobilization and Statistics, Egypt
+ESP	Instituto Nacional de Estadística, España
+EST	Statistical Office of Estonia
+ETH	Central Statistics Agency of Ethiopia
+FIN	Statistics Finland
+FJI	Fiji Islands Bureau of Statistics
+FLK	Falkland Islands Government
+FRA	Institut National de la Statistique et des Études Économiques, Paris, France
+FRO	Hagstova Føroya, Statistics Faroe Islands
+FSM	FSM Statistics Office
+GAB	Direction Générale des Statistiques du Gabon
+GBR	The Northern Ireland Statistics and Research Agency
+GBR	UK Office for National Statistics
+GBR	National Records of Scotland
+GEO	State Department for Statistics of Georgia
+GGY	States of Alderney (government site)
+GGY	States of Guernsey (government site)
+GHA	Ghana Statistical Service
+GIB	Statistics Office Gibraltar
+GIN	Direction Nationale de la Statistique de Guinée
+GMB	Gambia Bureau of Statistics
+GNB	Instituto Nacional de Estatística Guiné-Bissau
+GNQ	Instituto Nacional de Estadisticas de Guinea Ecuatorial
+GRC	General Secretariat of National Statistical Service of Greece
+GRD	Grenada Central Statistics Office
+GRL	Kalaallit Nunaanni Naatsorsueqqissaartarfik
+GTM	Instituto Nacional de Estadistica Guatemala
+GUM	Guam Bureau of Statistics and Plans
+GUY	Bureau of Statistics Guyana
+HKG	Census and Statistics Department, SAR Hong Kong
+HND	Instituto Nacional de Estadística Honduras
+HRV	Croatian Bureau of Statistics
+HTI	Institut Haïtien de Statistique et d'Informatique
+HUN	Hungarian Central Statistical Office
+IDN	Badan Pusat Statistik, Republik Indonesia
+IMN	Isle of Man Government
+IND	Office of the Registrar General and Census Commissioner, India
+IRL	Central Statistics Office, Ireland
+IRN	Statistical Centre of Iran
+IRQ	Central Organization for Statistics and Information Technology Iraq
+ISL	Statistics Iceland
+ISR	Central Bureau of Statistics, The State of Israel
+ITA	Istituto Nazionale di Statistica, Italia
+ITA	Geodemo Statistiche Demografiche dell'ISTAT
+JAM	Statistical Institute of Jamaica
+JAP	Statistics Bureau Japan
+JEY	States of Jersey: Government and Administration
+JOR	Department of Statistics, Jordan
+KAZ	The Agency of Statistics of the Republic of Kazakhstan
+KEN	Kenya National Bureau of Statistics
+KGZ	National Statistical Committee of Kyrgyz Republic
+KHM	National Institute of Statistics of Cambodia
+KIR	Kiribati National Statistics Office
+KOR	Statistics Korea
+KOS	Kosovo Agency of Statistics
+KWT	Kuwait Public Authority for Civil Information
+KWT	Central Statistical Office, State of Kuwait
+LAO	Lao Statistics Bureau
+LAT	Central Statistical Bureau of Latvia
+LBN	Central Administration for Statistics, Lebanese Republic
+LBR	Liberia Institute of Statistics & Geo-Information Services
+LBY	Bureau of Statistics and Census Libya
+LCA	St. Lucia Government Statistics Department
+LIE	Amt für Statistik, Landesverwaltung Liechtenstein
+LKA	Departement of Census and Statistics Sri Lanka
+LSO	Lesotho Bureau of Statistics
+LTU	Department of Statistics, Republic of Lithuania
+LUX	Le Portail des Statistiques du Luxembourg
+MAC	Direcção dos Serviços de Estatística e Censos, Macau
+MAR	Haut Commissariat au Plan, Royaume du Maroc
+MCO	Monaco Statistics
+MDA	Departamentul Statistica si Sociologie al Republicii Moldova
+MDG	Institut National de la Statistique Madagascar
+MDV	National Bureau of Statistics, Republic of Maldives
+MEX	Instituto Nacional de Estadística y Geografía, México
+MHL	Economic Policy, Planning and Statistics Office, Republic of the Marshall Islands
+MKD	State Statistical Office, Republic of North Macedonia
+MLI	Institut National de la Statistiques, République du Mali
+MLT	National Statistics Office Malta
+MMR	Myanmar Central Statistical Organization
+MMR	Myanmar Department of Population
+MMR	Myanmar Statistical Information Service
+MNE	Statistical Office of Montenegro
+MNG	Mongolian National Statistical Office
+MNP	CNMI Department of Commerce
+MOZ	Instituto Nacional de Estatistica Moçambique
+MRT	Agence Nationale de la Statistique, de l’Analyse Démographique et Economique, Mauretanie
+MSR	Statistics Department Montserrat
+MUS	Central Statistical Office of Mauritius
+MWI	National Statistical Office of Malawi
+MYS	Department of Statistics Malaysia
+NAM	Namibia Statistics Agency
+NCL	Institut de la Statistique et des Études Économiques Nouvelle-Calédonie
+NER	Institut National de la Statistique du Niger
+NFK	Norfolk Island Government
+NGA	National Bureau of Statistics Nigeria
+NIC	Instituto Nacional de Información de Desarrollo, Nicaragua
+NIU	Statistics Niue
+NLD	Statistics Netherlands
+NOR	Statistics Norway
+NPL	Central Bureau of Statistics, Nepal
+NRU	Nauru Bureau of Statistics
+NZL	Statistics New Zealand
+OIA	OIA Statistics Online
+OMN	Sultanate of Oman, National Centre for Statistics and Information
+PAK	Pakistan Bureau of Statistics
+PAN	Instituto Nacional de Estadística y Censo, Panamá
+PER	Instituto Nacional de Estadística e Informática, Peru
+PHL	National Statistics Office of the Philippines
+PLW	Bureau of Budget & Planning, Republic of Palau
+PNG	National Statistical Office of Papua New Guinea
+POL	Central Statistical Office Poland
+PRT	Instituto Nacional de Estatística Portugal
+PRY	Instituto Nacional de Estadística Paraguay
+PSE	Palestinian Central Bureau of Statistics
+PYF	Institute Statistique de Polynésie Française
+QAT	Qatar Planning Council
+ROU	Romania National Institute of Statistics
+RUS	Federal State Statistics Service Russia
+RWA	National Institute of Statistics Rwanda
+SAU	General Statistics Authority, Kingdom of Saudi Arabia
+SEN	Agence Nationale de la Statistique et de la Démographie, Sénégal
+SGP	Singapore Department of Statistics
+SHN	Saint Helena Government
+SLB	Solomon Islands National Statistics Office
+SLE	Statistics Sierra Leone
+SLV	Oficina Nacional de Estadística y Censos, El Salvador
+SMR	Ufficio Informatica, Tecnologia, Dati e Statistica, San Marino
+SOM	Somalia National Bureau of Statistics
+SRB	Statistical Office of the Republic of Serbia
+SSD	South Sudan National Bureau of Statistics
+STP	Instituto Nacional de Estatística, República Democrática de São Tomé e Príncipe
+SUD	Central Bureau of Statistics Sudan
+SUR	Algemeen Bureau voor de Statistiek in Suriname
+SVK	Statistical Office of the Slovak Republic
+SVN	Statistical Office of the Republic of Slovenia
+SWE	Statistiska Centralbyrån (SCB), Sverige
+SWZ	Central Statistical Office Swaziland
+SXM	Department of Statistics Sint Maarten
+SYC	National Statistics Bureau, Seychelles
+SYR	Central Bureau of Statistics, Syrian Arab Republic
+TCA	Turks and Caicos Statistics Department
+TCD	Institut National de la Statistique, des Études Économiques et Démographiques du Tchad
+TGO	Direction Générale de la Statistique et de la Comptabilité Nationale, République Togolaise
+THA	National Statistical Office, Thailand
+TJK	State Statistical Committee of the Republic of Tajikistan
+TKL	Tokelau National Statistical Unit
+TKM	State Committee for Statistics, Turkmenistan
+TLS	National Institute of Statistics Timor-Leste
+TON	Tonga Department of Statistics
+TRNC	TRNC State Planning Organization
+TTO	Central Statistical Office, Trinidad and Tobago
+TUN	Institut National de la Statistique Tunisie
+TUR	Republic of Turkey, State Institute of Statistics
+TUV	Tuvalu Central Statistics Division
+TWN	Ministry of Interior, Republic of China
+TWN	National Statistics, Republic of China
+TZA	National Bureau of Statistics Tanzania
+UGA	Uganda Bureau of Statistics
+UKR	State Statistics Committee of Ukraine
+UN	UN Department of Economic and Social Affairs, Population Division
+URY	Instituto Nacional de Estadística, Uruguay
+USA	U.S. Census Bureau
+UZB	State Committee of Uzbekistan on Statistics
+VCT	Government of St. Vincent & the Grenadines - Statistical Office
+VEN	Instituto Nacional de Estadística, Venezuela
+VGB	Government of the Virgin Islands (UK), Central Statistics Office
+VNM	General Statistics Office of Vietnam
+VUT	Vanuatu National Statistics Office
+WLF	Service Territorial de la Statistique et des Études Économiques, Wallis et Futuna
+WSM	Samoa Statistical Services Division
+YEM	Central Statistical Organisation Yemen
+ZAF	Statistics South Africa
+ZMB	Central Statistical Office Zambia
+ZWE	Central Statistical Office Zimbabwe
